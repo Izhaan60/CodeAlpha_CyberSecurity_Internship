@@ -8,7 +8,7 @@ Educational presentation on **Phishing Attacks & Social Engineering Tactics** de
 - **Defense Strategies:** Link verification, MFA, and incident reporting.
 
 ## 📂 Files
-- `Phishing_Attack_Awareness_CodeAlpha.pdf`
+- `Phishing Attack & Cybersecurity.pptx`
 
 ---
 **Author:** Muhammad Izhan Siddiqui  
